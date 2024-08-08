@@ -3,6 +3,7 @@ import preprocessor
 import helper
 import matplotlib.pyplot as plt
 import seaborn as sns
+from urlextract import URLExtract
 
 st.sidebar.title("whatsapp chat analyser")
 
